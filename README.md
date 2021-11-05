@@ -1,2 +1,2 @@
 # miniReactionTime
-Just a little website that records your reaction tie.
+Just a little website that records your reaction time.
